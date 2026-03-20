@@ -59,7 +59,3 @@
 
 ### ⚡ Highlights meiner Arbeit
 Schau dir gerne meine Pinned-Repositories an! Besonders im Bereich **Kotlin** (wie z.B. meine *JetPack Dictionary App* oder mein *Kotlin RPG Game*) habe ich viele praktische Dinge implementiert.
-
-<p align="center">
-  <i>„There are 10 types of people in this world, those who understand binary and those who don't.“</i>
-</p>
