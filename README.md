@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on **various Android & software projects (e.g., using Kotlin and Jetpack Compose)**.
 - 🌱 I’m continuously deepening my knowledge in **app development, programming, and cybersecurity**.
 - 💡 I’m particularly interested in modern architectures, secure networks, and solving complex problems.
-- 📫 How to reach me: [Insert your email or LinkedIn link here]
 
 ---
 
