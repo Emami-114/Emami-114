@@ -1,28 +1,28 @@
-<h1 align="center">Hallo! Ich bin Emami 👋</h1>
+<h1 align="center">Hi there! I'm Emami 👋</h1>
 
 <p align="center">
-  <strong>Willkommen auf meinem GitHub-Profil!</strong><br>
-  Leidenschaftlicher Entwickler mit starkem Fokus auf Softwareentwicklung und IT-Sicherheit.
+  <strong>Welcome to my GitHub profile!</strong><br>
+  Passionate developer with a strong focus on software engineering and IT security.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emami-114&color=blueviolet&style=flat-square&label=PROFILAUFRUFE" alt="Profilaufrufe" />
+  <img src="https://komarev.com/ghpvc/?username=Emami-114&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 Über mich
+### 👨‍💻 About Me
 
-- 🔭 Ich arbeite aktuell an **verschiedenen Android- & Software-Projekten (z.B. mit Kotlin und Jetpack Compose)**.
-- 🌱 Ich vertiefe kontinuierlich meine Kenntnisse in **App-Entwicklung, Programmierung und Cybersecurity**.
-- 💡 Mich interessieren besonders moderne Architekturen, sichere Netzwerke und das Lösen komplexer Probleme.
-- 📫 Wie du mich erreichen kannst: [Füge hier deine E-Mail oder deinen LinkedIn-Link ein]
+- 🔭 I’m currently working on **various Android & software projects (e.g., using Kotlin and Jetpack Compose)**.
+- 🌱 I’m continuously deepening my knowledge in **app development, programming, and cybersecurity**.
+- 💡 I’m particularly interested in modern architectures, secure networks, and solving complex problems.
+- 📫 How to reach me: [Insert your email or LinkedIn link here]
 
 ---
 
-### 🛠️ Meine Fähigkeiten & Technologien
+### 🛠️ My Skills & Technologies
 
-**Programmiersprachen & Entwicklung:**
+**Programming Languages & Development:**
 <p align="left">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-**IT, Netzwerk & Cybersecurity Zertifikate / Skills:**
+**IT, Network & Cybersecurity Certificates / Skills:**
 <p align="left">
   <img src="https://img.shields.io/badge/CompTIA-A%2B-FF4500?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-FF4500?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Statistiken
+### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emami-114&show_icons=true&theme=radical&hide_border=true" alt="Emami-114 GitHub Stats" width="48%" />
@@ -57,5 +57,5 @@
 
 ---
 
-### ⚡ Highlights meiner Arbeit
-Schau dir gerne meine Pinned-Repositories an! Besonders im Bereich **Kotlin** (wie z.B. meine *JetPack Dictionary App* oder mein *Kotlin RPG Game*) habe ich viele praktische Dinge implementiert.
+### ⚡ Highlights of my Work
+Feel free to check out my pinned repositories! I've built some highly practical applications, particularly using **Kotlin** (like my *JetPack Dictionary App* or my *Kotlin RPG Game*).
