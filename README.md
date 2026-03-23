@@ -19,6 +19,14 @@
 
 ---
 
+## 🤖 My Featured Project: EminSecurity AI Bot
+
+I am currently working on my own Artificial Intelligence bot named **EminSecurity**. Feel free to check out the code and follow its development:
+
+👉 **[Check out EminSecurity on GitHub right here!](https://github.com/eminSecurity)**
+
+---
+
 ### 🛠️ My Skills & Technologies
 
 **Programming Languages & Development:**
